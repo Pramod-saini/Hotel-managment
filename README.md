@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to your Hotel project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/21adf1be-efc3-49c4-86a1-8892fbe04d72
+**URL**: https:///projects/21adf1be-efc3-49c4-86a1-8892fbe04d72
 
 ## How can I edit this code?
 
@@ -10,9 +10,9 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/21adf1be-efc3-49c4-86a1-8892fbe04d72) and start prompting.
+Simply visit the [Hotel Project](https:///projects/21adf1be-efc3-49c4-86a1-8892fbe04d72) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,9 +62,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/21adf1be-efc3-49c4-86a1-8892fbe04d72) and click on Share -> Publish.
+Simply open [Hotel](https://projects/21adf1be-efc3-49c4-86a1-8892fbe04d72) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my Hotel project?
 
 Yes, you can!
 
